@@ -35,7 +35,10 @@ function myMenuFunction(){
 var typingEffect = new Typed(".typedText", {
   strings: [
     '<span class="red">ML enthusiast</span>',
-    '<span class="blue">Developer</span>'
+    '<span class="blue">Developer</span>',
+    '<span class="green">Data Scientist</span>',
+    '<span class="purple">Python Programmer</span>',
+    '<span class="orange">AI Engineer</span>' 
   ],
     loop : true,
     typeSpeed : 100, 
