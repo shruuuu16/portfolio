@@ -715,7 +715,7 @@ footer{
     color: cyan; /* Matches the text color */
 }
 .red {
-    color: white;
+    color: white !important;
   }
   
   .blue {
