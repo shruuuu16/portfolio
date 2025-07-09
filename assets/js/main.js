@@ -36,7 +36,7 @@ var typingEffect = new Typed(".typedText", {
   strings: [
     '<span class="red">ML enthusiast</span>',
     '<span class="red">Developer</span>',
-    '<span class="red">Data Scientist</span>',
+    '<span class="red"> Aspiring Data Scientist</span>',
     '<span class="red">Python Programmer</span>',
     '<span class="red">AI Engineer</span>' 
   ],
